@@ -1,6 +1,6 @@
 name: Bug Report Form
 description: Report a bug or issue that needs to be fixed
-title: ' [BUG] '
+type: 'Bug'
 labels: ['bug']
 body:
   - type: textarea
