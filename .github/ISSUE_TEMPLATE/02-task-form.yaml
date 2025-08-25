@@ -1,6 +1,6 @@
 name: Task Form
 description: General tasks that must be completed.
-title: ' [TASK] '
+type: 'Task'
 body:
   - type: textarea
     id: description
